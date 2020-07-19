@@ -1,7 +1,8 @@
 * Langauges
-  * c++
-  * python
-  * freeBASIC
+  * C++
+  * Python
+  * FreeBASIC
   * JavaScript
+  * Rust
 
 Pronouns: she/her
