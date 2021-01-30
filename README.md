@@ -4,5 +4,6 @@
   * FreeBASIC
   * JavaScript
   * Rust
+  * GLSL
 
 Pronouns: she/her
